@@ -1,2 +1,0 @@
-# pyland
-The plugin
